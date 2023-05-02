@@ -1,4 +1,4 @@
-#Dictionary
+# Dictionary
 Folder for dictionary-related commits
 
 Available formats:
